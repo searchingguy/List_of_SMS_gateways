@@ -1083,6 +1083,14 @@ Some carriers have multiple gateways. The SMS gateway refers to Short Message Se
 <td></td>
 </tr>
 <tr>
+<td><a href="http://en.wikipedia.org/w/index.php?title=smsitonline.com_(Sri_Lanka)&amp;action=edit&amp;redlink=1" class="new" title="smsitonline.com (Sri Lanka) (page does not exist)">smsitonline.com</a></td>
+<td><a href="http://en.wikipedia.org/wiki/Sri_Lanka" title="Sri Lanka">Sri Lanka</a></td>
+<td><a rel="nofollow" class="external free" href="http://www.smsitonline.com/engine/sendsms/1/un=xx&amp;pw=xx&amp;to=xx&amp;type=S&amp;msg=xx">http://www.smsitonline.com/engine/sendsms/1/un=xx&amp;pw=xx&amp;to=xx&amp;type=S&amp;msg=xx</a></td>
+<td><a rel="nofollow" class="external autonumber" href="http://www.smsitonline.com/">[]</a></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td><a href="http://en.wikipedia.org/wiki/Movistar" title="Movistar">Movistar</a></td>
 <td><a href="http://en.wikipedia.org/wiki/Argentina" title="Argentina">Argentina</a></td>
 <td><i>number</i>@sms.movistar.net.ar</td>
